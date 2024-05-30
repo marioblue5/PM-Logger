@@ -1,5 +1,3 @@
-# Part's List and Components
-
 # Bill of Materials (BOM)
 
 | Item                              | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Cost  |
