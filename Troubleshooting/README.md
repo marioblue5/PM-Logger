@@ -9,26 +9,26 @@
 1. Install the Arduino IDE from [here](https://www.arduino.cc/en/software).
 2. Download the code from the main page of this GitHub repository under the "Code" folder and download the file labeled "PMdatalogger.ino".
 
-   ![Download Code](path_to_your_image/download_code.png)
+   ![Download Code](Troubleshooting/DownloadCodeTutorial.png)
 
 3. Connect the Arduino to the computer using the USB-Arduino cable.
 
-   ![Connect Arduino](path_to_your_image/connect_arduino.png)
+   ![Connect Arduino](Troubleshooting/ArduinoPortTutorial.png)
 
 4. Open the IDE and click on the library manager on the left-hand side.
 
-   ![Library Manager](path_to_your_image/library_manager.png)
+   ![Library Manager](Troubleshooting/LibraryManagerTutorial.png)
 
 5. Type `pm2008` and click install library.
 
-   ![Install Library](path_to_your_image/install_library.png)
+   ![Install Library](Troubleshooting/PM2008Tutorial.png)
 
 6. Open the code provided and change the number to the corresponding sensor box.
 
-   ![Change Sensor Number](path_to_your_image/change_sensor_number.png)
+   ![Change Sensor Number](Troubleshooting/ChangeNameTutorial.png)
 
 7. Click upload code.
 
-   ![Upload Code](path_to_your_image/upload_code.png)
+   ![Upload Code](Troubleshooting/UploadCodeTutorial.png)
 
 The RTC should now be set properly!
